@@ -13,10 +13,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-
-
-
-window.chatbaseConfig = {
-  chatbotId: "IODFvRmvZiAalTC-nm2zJ",
-}
-
